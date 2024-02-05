@@ -1,5 +1,5 @@
 <h1 align="center">Fala meu consagrado! Me chamo Heber dos Santos Soares de Araujo Lima∴</h1>
-<h3 align="center">Javeiro recém assumido que gosta de mexer com um pouco de CSS às vezes.</h3>
+<h3 align="center">Um match de Java e Angular.</h3>
 
 <h3 align="left">Minhas redes sociais:</h3>
 <p align="left">
